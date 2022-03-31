@@ -1,0 +1,29 @@
+head {
+    font-size: 4rem;
+    text-align: center;
+    color: #010B5B;
+}
+body {
+    width: 70%;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #E7FBFB;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem; /* 36px */
+}
+
+
+ul {
+    font-style: italic;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+ 
